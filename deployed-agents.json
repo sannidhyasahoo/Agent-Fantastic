@@ -1,0 +1,27 @@
+[
+  {
+    "name": "ThreatClassifierAgent",
+    "status": "FAILED",
+    "error": "An error occurred (ValidationException) when calling the CreateAgentActionGroup operation: Failed to create OpenAPI 3 model from the JSON/YAML object that you provided for action: ThreatClassifierAgentTools"
+  },
+  {
+    "name": "InvestigationAgent",
+    "status": "FAILED",
+    "error": "An error occurred (ValidationException) when calling the CreateAgentActionGroup operation: Failed to create OpenAPI 3 model from the JSON/YAML object that you provided for action: InvestigationAgentTools"
+  },
+  {
+    "name": "ResponseOrchestrationAgent",
+    "status": "FAILED",
+    "error": "An error occurred (ValidationException) when calling the CreateAgentAlias operation: Create operation can't be performed on AgentAlias when Agent is in Preparing state."
+  },
+  {
+    "name": "ThreatIntelligenceAgent",
+    "status": "FAILED",
+    "error": "An error occurred (ValidationException) when calling the CreateAgentActionGroup operation: Failed to create OpenAPI 3 model from the JSON/YAML object that you provided for action: ThreatIntelligenceAgentTools"
+  },
+  {
+    "name": "RootCauseAnalysisAgent",
+    "status": "FAILED",
+    "error": "An error occurred (ValidationException) when calling the CreateAgentActionGroup operation: Failed to create OpenAPI 3 model from the JSON/YAML object that you provided for action: RootCauseAnalysisAgentTools"
+  }
+]
